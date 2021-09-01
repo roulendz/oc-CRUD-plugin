@@ -1,0 +1,8 @@
+{
+    "name": "roulendz/frontend-CRUD-plugin",
+    "type": "october-plugin",
+    "description": "Frontend CRUD plugin for October CMS",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
