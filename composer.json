@@ -1,5 +1,5 @@
 {
-    "name": "roulendz/frontend-CRUD-plugin",
+    "name": "inetis/crud-plugin",
     "type": "october-plugin",
     "description": "Frontend CRUD plugin for October CMS",
     "keywords": ["october", "octobercms", "crud"],
