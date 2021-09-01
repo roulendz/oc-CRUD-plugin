@@ -2,7 +2,11 @@
     "name": "roulendz/frontend-CRUD-plugin",
     "type": "october-plugin",
     "description": "Frontend CRUD plugin for October CMS",
+    "keywords": ["october", "octobercms", "crud"],
+    "license": "MIT",
     "require": {
+        "php": ">=5.5.9",
         "composer/installers": "~1.0"
-    }
+    },
+    "minimum-stability": "master"
 }
